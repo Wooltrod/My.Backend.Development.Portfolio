@@ -1,9 +1,9 @@
 # My.Backend.Development.Portfolio
-Welcome to my backend development project showcase!  
-This repository highlights my progress in mastering backend technologies such as Node Packages (with Express.js), Embedded Javascript, Axios, APIs (Postman), API Authentication, and their RESTful practices in creating APIs.
+Welcome to my Backend Development project showcase!
+
+This repository highlights my progress in mastering backend technologies such as Node Packages (with Express.js), Embedded Javascript (EJS), Axios, APIs (Postman), API Authentication, and RESTful practices in creating APIs.
 
 Also, I am currently mastering SQL, PostgreSQL, & React - I will update the portfolio with these soon!
-
 ---
 
 ### 1. Band Name Generator Project
